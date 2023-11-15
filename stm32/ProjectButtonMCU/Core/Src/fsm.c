@@ -104,7 +104,6 @@ void fsm_run(){
 						TurnOnLedGreenLane2();
 						TurnOnLedRedLane1();
 					}
-					break;
 				}
 				setTimer1(100);
 			}
@@ -203,7 +202,6 @@ void fsm_run(){
 						TimeOfRed = newCountRed;
 						TurnOnLedGreenLane1();
 						TurnOnLedRedLane2();
-						break;
 					}
 				}
 				setTimer1(100);
