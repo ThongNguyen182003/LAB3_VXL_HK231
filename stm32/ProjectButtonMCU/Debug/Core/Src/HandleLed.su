@@ -1,0 +1,7 @@
+../Core/Src/HandleLed.c:11:6:TurnOnLedRedLane1	8	static
+../Core/Src/HandleLed.c:16:6:TurnOnLedYellowLane1	8	static
+../Core/Src/HandleLed.c:21:6:TurnOnLedGreenLane1	8	static
+../Core/Src/HandleLed.c:27:6:TurnOnLedRedLane2	8	static
+../Core/Src/HandleLed.c:32:6:TurnOnLedYellowLane2	8	static
+../Core/Src/HandleLed.c:37:6:TurnOnLedGreenLane2	8	static
+../Core/Src/HandleLed.c:43:6:TurnOfAllLed	8	static
